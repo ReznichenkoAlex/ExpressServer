@@ -1,0 +1,91 @@
+{
+  "skills": [
+    {
+      "number": "11",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": "0",
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": "21",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": "16",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "\\assets\\img\\products\\57a209d0c4b40010ce20c4d38d27b957.png",
+      "name": "sad",
+      "price": "1500"
+    },
+    {
+      "src": "\\assets\\img\\products\\YEIF_x5CDs1200.png",
+      "name": "sushi",
+      "price": "300"
+    },
+    {
+      "src": "\\assets\\img\\products\\8FaKRQwcIs1200.png",
+      "name": "sushi",
+      "price": "300"
+    },
+    {
+      "src": "\\assets\\img\\products\\LdxlMwDeBs1200.png",
+      "name": "another sushi",
+      "price": "150"
+    }
+  ],
+  "admin": {
+    "login": "mail@example.com",
+    "password": "password"
+  }
+}
